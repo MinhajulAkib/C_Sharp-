@@ -1,0 +1,12 @@
+D:\c#\OOP-Method\OOP-Method\bin\Debug\netcoreapp3.1\OOP-Method.exe
+D:\c#\OOP-Method\OOP-Method\bin\Debug\netcoreapp3.1\OOP-Method.deps.json
+D:\c#\OOP-Method\OOP-Method\bin\Debug\netcoreapp3.1\OOP-Method.runtimeconfig.json
+D:\c#\OOP-Method\OOP-Method\bin\Debug\netcoreapp3.1\OOP-Method.runtimeconfig.dev.json
+D:\c#\OOP-Method\OOP-Method\bin\Debug\netcoreapp3.1\OOP-Method.dll
+D:\c#\OOP-Method\OOP-Method\bin\Debug\netcoreapp3.1\OOP-Method.pdb
+D:\c#\OOP-Method\OOP-Method\obj\Debug\netcoreapp3.1\OOP-Method.AssemblyInfoInputs.cache
+D:\c#\OOP-Method\OOP-Method\obj\Debug\netcoreapp3.1\OOP-Method.AssemblyInfo.cs
+D:\c#\OOP-Method\OOP-Method\obj\Debug\netcoreapp3.1\OOP-Method.csproj.CoreCompileInputs.cache
+D:\c#\OOP-Method\OOP-Method\obj\Debug\netcoreapp3.1\OOP-Method.dll
+D:\c#\OOP-Method\OOP-Method\obj\Debug\netcoreapp3.1\OOP-Method.pdb
+D:\c#\OOP-Method\OOP-Method\obj\Debug\netcoreapp3.1\OOP-Method.genruntimeconfig.cache
