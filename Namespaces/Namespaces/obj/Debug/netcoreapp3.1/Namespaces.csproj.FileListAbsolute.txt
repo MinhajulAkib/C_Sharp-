@@ -1,0 +1,13 @@
+D:\c#\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.csprojAssemblyReference.cache
+D:\c#\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.AssemblyInfoInputs.cache
+D:\c#\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.AssemblyInfo.cs
+D:\c#\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.csproj.CoreCompileInputs.cache
+D:\c#\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.exe
+D:\c#\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.deps.json
+D:\c#\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.runtimeconfig.json
+D:\c#\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.runtimeconfig.dev.json
+D:\c#\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.dll
+D:\c#\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.pdb
+D:\c#\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.dll
+D:\c#\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.pdb
+D:\c#\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.genruntimeconfig.cache
