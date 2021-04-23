@@ -1,0 +1,13 @@
+D:\c#\scope\scope\obj\Debug\netcoreapp3.1\scope.csprojAssemblyReference.cache
+D:\c#\scope\scope\obj\Debug\netcoreapp3.1\scope.AssemblyInfoInputs.cache
+D:\c#\scope\scope\obj\Debug\netcoreapp3.1\scope.AssemblyInfo.cs
+D:\c#\scope\scope\obj\Debug\netcoreapp3.1\scope.csproj.CoreCompileInputs.cache
+D:\c#\scope\scope\bin\Debug\netcoreapp3.1\scope.exe
+D:\c#\scope\scope\bin\Debug\netcoreapp3.1\scope.deps.json
+D:\c#\scope\scope\bin\Debug\netcoreapp3.1\scope.runtimeconfig.json
+D:\c#\scope\scope\bin\Debug\netcoreapp3.1\scope.runtimeconfig.dev.json
+D:\c#\scope\scope\bin\Debug\netcoreapp3.1\scope.dll
+D:\c#\scope\scope\bin\Debug\netcoreapp3.1\scope.pdb
+D:\c#\scope\scope\obj\Debug\netcoreapp3.1\scope.dll
+D:\c#\scope\scope\obj\Debug\netcoreapp3.1\scope.pdb
+D:\c#\scope\scope\obj\Debug\netcoreapp3.1\scope.genruntimeconfig.cache
