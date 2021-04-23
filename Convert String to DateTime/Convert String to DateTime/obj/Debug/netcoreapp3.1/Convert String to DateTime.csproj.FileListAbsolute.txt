@@ -1,0 +1,13 @@
+D:\c#\Convert String to DateTime\Convert String to DateTime\bin\Debug\netcoreapp3.1\Convert String to DateTime.exe
+D:\c#\Convert String to DateTime\Convert String to DateTime\bin\Debug\netcoreapp3.1\Convert String to DateTime.deps.json
+D:\c#\Convert String to DateTime\Convert String to DateTime\bin\Debug\netcoreapp3.1\Convert String to DateTime.runtimeconfig.json
+D:\c#\Convert String to DateTime\Convert String to DateTime\bin\Debug\netcoreapp3.1\Convert String to DateTime.runtimeconfig.dev.json
+D:\c#\Convert String to DateTime\Convert String to DateTime\bin\Debug\netcoreapp3.1\Convert String to DateTime.dll
+D:\c#\Convert String to DateTime\Convert String to DateTime\bin\Debug\netcoreapp3.1\Convert String to DateTime.pdb
+D:\c#\Convert String to DateTime\Convert String to DateTime\obj\Debug\netcoreapp3.1\Convert String to DateTime.csprojAssemblyReference.cache
+D:\c#\Convert String to DateTime\Convert String to DateTime\obj\Debug\netcoreapp3.1\Convert String to DateTime.AssemblyInfoInputs.cache
+D:\c#\Convert String to DateTime\Convert String to DateTime\obj\Debug\netcoreapp3.1\Convert String to DateTime.AssemblyInfo.cs
+D:\c#\Convert String to DateTime\Convert String to DateTime\obj\Debug\netcoreapp3.1\Convert String to DateTime.csproj.CoreCompileInputs.cache
+D:\c#\Convert String to DateTime\Convert String to DateTime\obj\Debug\netcoreapp3.1\Convert String to DateTime.dll
+D:\c#\Convert String to DateTime\Convert String to DateTime\obj\Debug\netcoreapp3.1\Convert String to DateTime.pdb
+D:\c#\Convert String to DateTime\Convert String to DateTime\obj\Debug\netcoreapp3.1\Convert String to DateTime.genruntimeconfig.cache
